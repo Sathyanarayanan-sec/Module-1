@@ -14,7 +14,7 @@ To create a Python program to print the string in multiple lines using triple qu
 ```python
 # Reg.No-212222060232
 # Name-SATHYANARAYANAN S
-# Write your code here
+
 
 print("""I am a string literal
 ... has more than one
